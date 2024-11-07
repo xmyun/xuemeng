@@ -27,7 +27,8 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
  \| [\[**Video**\]](https://github.com/)
  \| [\[**Codes**\]](https://github.com/)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
