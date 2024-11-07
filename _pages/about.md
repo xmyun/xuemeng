@@ -31,7 +31,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SDE-img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/SDE-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SDE: Early Screening for Dry Eye Disease with Wireless Signals](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
