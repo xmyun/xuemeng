@@ -1,4 +1,4 @@
----
+![SDE-img](https://github.com/user-attachments/assets/2b7ca12d-6eb5-4b64-ab0d-740a5496e651)---
 permalink: /
 title: ""
 excerpt: ""
@@ -31,16 +31,16 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SDE-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SDE: Early Screening for Dry Eye Disease with Wireless Signals](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174703)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun  \| [\[video\]](https://github.com/)
+**Meng Xue**, Yuyang Zeng, Shengkang Gu, Qian Zhang, Bowei Tian, and Changzheng Chen 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
-[**Video**](https://github.com/)
-[**Codes**](https://github.com/)
+ \|[**Video**](https://github.com/)
+ \|[**Codes**](https://github.com/)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
