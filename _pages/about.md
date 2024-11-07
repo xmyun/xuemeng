@@ -52,12 +52,14 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 # 📖 Educations
 - *2022.09 - now*, HKUST.
-- *2017.06 - 2022.04, Wuhan University. 
+- *2021.5-2022.4, Zhejiang university (Visiting).
+- *2017.09 - 2022.06, Wuhan University. 
 
 # 💬 Services
 - Reviewer of IEEE Transactions on Information Forensics and Security. 
 - Reviewer of IMWUT/Ubicomp.
 - Reviewer of IEEE network.
+- Teaching Assistant of Computer Networking, at Wuhan University, 2019.9 - 2020.1
 
 # 💻 Internships
 - *2018.06 - 2018.09*, [Huawei](https://github.com/), China.
