@@ -4,7 +4,6 @@
 
 <!-- I am currently a Postdoctoral Researcher with Hong Kong University of Science and Technology. -->
 
-
 <span class='anchor' id='about-me'></span>
 
 I obtained my M.S. and Ph.D. degrees from Wuhan University, Wuhan, China, in 2019 and 2022. I am currently a Postdoctoral Researcher with Hong Kong University of Science and Technology. 
@@ -18,8 +17,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/500x300.png' alt="sym" width="1%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[SDE: Early Screening for Dry Eye Disease with Wireless Signals]
+- SDE: Early Screening for Dry Eye Disease with Wireless Signals
 
 **Meng Xue**, Yuyang Zeng, Shengkang Gu, Qian Zhang, Bowei Tian, and Changzheng Chen 
 
