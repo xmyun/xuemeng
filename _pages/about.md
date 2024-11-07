@@ -23,16 +23,13 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 **Meng Xue**, Yuyang Zeng, Shengkang Gu, Qian Zhang, Bowei Tian, and Changzheng Chen 
 
-[**Project**]([https://github.com/]) \| [\[**Video**\]](https://github.com/) \| [\[**Codes**\]](https://github.com/)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/500x300.png' alt="sym" width="1%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-</div>
-</div>
+
 
 
 # 🎖 Honors and Awards
