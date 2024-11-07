@@ -55,7 +55,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ xuemeng.github.io }}
+      url: ${{https://xuemeng.github.io}}
     runs-on: ubuntu-latest
     needs: build
     steps:
