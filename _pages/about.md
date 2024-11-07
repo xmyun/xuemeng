@@ -1,4 +1,4 @@
-![SDE-img](https://github.com/user-attachments/assets/2b7ca12d-6eb5-4b64-ab0d-740a5496e651)---
+---
 permalink: /
 title: ""
 excerpt: ""
