@@ -35,7 +35,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/SDE-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SDE: Early Screening for Dry Eye Disease with Wireless Signals](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SDE: Early Screening for Dry Eye Disease with Wireless Signals](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174703/)
 
 **Meng Xue**, Yuyang Zeng, Shengkang Gu, Qian Zhang, Bowei Tian, and Changzheng Chen 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -44,7 +44,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 </div>
 </div>
 
-- [ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://github.com), A, B, C, **TDSC 2024**
+- [ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10702439), A, B, C, **TDSC 2024**
 
 # 🎖 Honors and Awards
 - *2024.9* HKUST Research Travel Grant, HKUST. 
