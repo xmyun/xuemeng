@@ -27,7 +27,8 @@ I obtained my M.S. and Ph.D. degrees from Wuhan University, Wuhan, China, in 201
 My research interests include mobile and ubiquitous computing, smart healthcare, and IoT/AI security. 
 
 # 🔥 News 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.9*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024!. 
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024!. 
 
 # 📝 Publications 
 
@@ -43,19 +44,19 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://github.com), A, B, C, **TDSC 2024**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.9* HKUST Research Travel Grant, HKUST. 
+- *2022.10* Academic Innovation Scholarship, WuHan University. 
 
 # 📖 Educations
+- *2022.09 - now*, HKUST.
 - *2017.06 - 2022.04, Wuhan University. 
-- *2022.09 - now*, HKUST. 
 
 # 💬 Services
 - Reviewer of IEEE Transactions on Information Forensics and Security. 
-- Reviewer of Ubicomp.
+- Reviewer of IMWUT/Ubicomp.
 - Reviewer of IEEE network.
 
 # 💻 Internships
