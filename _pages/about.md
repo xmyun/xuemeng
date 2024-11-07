@@ -16,7 +16,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/SDE-img.png' alt="sym" width="0.1%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/SDE-img.png' alt="sym" width="1%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SDE: Early Screening for Dry Eye Disease with Wireless Signals]
