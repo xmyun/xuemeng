@@ -97,7 +97,7 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
+baseurl: ""
 # Conversion
 markdown: kramdown
 highlighter: rouge
