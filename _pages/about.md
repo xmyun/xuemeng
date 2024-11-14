@@ -39,7 +39,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [SDE: Early Screening for Dry Eye Disease with Wireless Signals](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174703/)
 
 **Meng Xue**, Yuyang Zeng, Shengkang Gu, Qian Zhang, Bowei Tian, and Changzheng Chen 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:_FxGoFyzp5QC) 
 
 - In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. By constructing frame chirps variance, we extract fine-grained spontaneous blinking action from RF signals.
 </div>
@@ -52,7 +52,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [Wet-Ra: Monitoring Diapers Wetness with Wireless Signals](https://dl.acm.org/doi/pdf/10.1145/3534599)
 
 **Meng Xue**, Yanjiao Chen, Xueluan Gong, Jian Zhang, and Chunkai Fan
-[**Presentaion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Presentaion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:Tyk-4Ss8FVUC) 
 - Diaper wetness monitoring is essential in various situations (e.g., babies and patients) to guarantee hygiene and avoid embarrassment. In this paper, we introduce Wet-Ra, a contactless, ubiquitous, and user-friendly diaper wetness monitoring system based on RF signals. 
 </div>
 </div>
