@@ -39,7 +39,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [SDE: Early Screening for Dry Eye Disease with Wireless Signals](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174703/)
 
 **Meng Xue**, Yuyang Zeng, Shengkang Gu, Qian Zhang, Bowei Tian, and Changzheng Chen 
-[**Demo**](https://dl.acm.org/doi/abs/10.1145/3631438) [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:_FxGoFyzp5QC) 
+[**Demo**](https://dl.acm.org/doi/abs/10.1145/3631438) 
 
 - In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. By constructing frame chirps variance, we extract fine-grained spontaneous blinking action from RF signals.
 </div>
@@ -63,8 +63,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [Echo: Reverberation-based Fast Black-Box Adversarial Attacks on Intelligent Audio Systems](https://dl.acm.org/doi/pdf/10.1145/3534599)
 
 **Meng Xue**, Peng Kuang, Xueluan Gong, Qian ZHANG, and Yanjiao Chen
-[**Presentaion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:eQOLeE2rZwMC) [Demo](https://echodisplay.github.io/
-)
+[Projects](https://echodisplay.github.io/)
 - In this paper, we propose a physical adversarial attack that exploits reverberation, a natural indoor acoustic effect, to realize imperceptible, fast, and targeted black-box attacks. Moreover, we generate reverberation-alike perturbations that blend naturally with the original voice sample. 
 </div>
 </div>
@@ -75,7 +74,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [Wet-Ra: Monitoring Diapers Wetness with Wireless Signals](https://dl.acm.org/doi/pdf/10.1145/3534599)
 
 **Meng Xue**, Yanjiao Chen, Xueluan Gong, Jian Zhang, and Chunkai Fan
-[**Presentaion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:Tyk-4Ss8FVUC) 
+[**Presentaion**](https://www.youtube.com/watch?v=_HmM2UIYrUI) 
 - Diaper wetness monitoring is essential in various situations (e.g., babies and patients) to guarantee hygiene and avoid embarrassment. In this paper, we introduce Wet-Ra, a contactless, ubiquitous, and user-friendly diaper wetness monitoring system based on RF signals. 
 </div>
 </div>
@@ -86,7 +85,6 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [ChestLive: Fortifying Voice-based Authentication with Chest Motion Biometric on Smart Devices](https://dl.acm.org/doi/abs/10.1145/3494962)
 
 Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, and Wei Wang
-[**Presentaion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:zYLM7Y9cAGgC) 
 - In this paper, we propose to leverage the distinctive chest motions during speaking to establish a secure multi-factor authentication system, named ChestLive. We use acoustic sensing to monitor chest motions with a built-in speaker and microphone on smartphones.  
 </div>
 </div>
