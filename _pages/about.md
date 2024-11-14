@@ -82,11 +82,12 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 
-[ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10702439), **TDSC 2024**
+[Meta-Learning for Human-Centered Wireless Sensing: Architecture, Applications, and Challenges](https://ieeexplore.ieee.org/abstract/document/9846941/). **Xue, Meng**, Yanjiao Chen, Xueluan Gong, Houze Cao, Jian Zhang, and Qian Zhang. *IEEE Network*, 2022.
+[ChestLive: Fortifying Voice-based Authentication with Chest Motion Biometric on Smart Devices](https://dl.acm.org/doi/abs/10.1145/3494962). Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, Wei Wang. *ACM Ubicomp*, 2021.
+[DetectDUI: An In-Car Detection System for Drink Driving and BACs](https://ieeexplore.ieee.org/abstract/document/9626572). Yanjiao Chen, **Meng Xue**, Jian Zhang, Runmin Ou, Qian Zhang, Peng Kuang. *IEEE/ACM TON*, 2021.
+[D-DAE: Defense-Penetrating Model Extraction Attacks](https://ieeexplore.ieee.org/abstract/document/10179406). Yanjiao Chen, Rui Guan, Xueluan Gong, Jianshuo Dong, **Meng Xue**. *IEEE Symposium on Security and Privacy*, 2023.
+[Kaleidoscope: Physical Backdoor Attacks against Deep Neural Networks with RGB Filters](https://ieeexplore.ieee.org/abstract/document/10024758). Xueluan Gong, Ziyao Wang, Yanjiao Chen, **Meng Xue**, Qian Wang, Yuzhe Gu. *IEEE TDSC*, 2023.
 
-  **Meng Xue**, Zhixian Wang, Qian Zhang, Xueluan Gong, Zhihang Liu, and Yanjiao Chen 
-
-[Meta-Learning for Human-Centered Wireless Sensing: Architecture, Applications, and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9846941). **Xue, Meng**, Yanjiao Chen, Xueluan Gong, Houze Cao, Jian Zhang, and Qian Zhang. *IEEE Network*, 2022.
 
 
 # 🎖 Honors and Awards
