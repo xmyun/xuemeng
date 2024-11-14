@@ -28,8 +28,8 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
-- *2024.9*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024!. 
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024!. 
+- *2024.9*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024! 
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024! 
 
 # 📝 Publications 
 
