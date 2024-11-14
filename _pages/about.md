@@ -28,7 +28,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
-- *2024.9*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024! 
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024! 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024! 
 
 # 📝 Publications 
@@ -101,12 +101,12 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 
 
 # 🎖 Honors and Awards
-- *2024.9* HKUST Research Travel Grant, HKUST. 
+- *2024.09* HKUST Research Travel Grant, HKUST. 
 - *2022.10* Academic Innovation Scholarship, WuHan University. 
 
 # 📖 Educations
 - *2022.09 - now*, Hong Kong University of Science and Technology.
-- *2021.5 - 2022.4*, Zhejiang university (Visiting).
+- *2021.05 - 2022.04*, Zhejiang university (Visiting).
 - *2017.09 - 2022.06*, Wuhan University. 
 
 # 💬 Services
