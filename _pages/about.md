@@ -22,8 +22,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my M.S. and Ph.D. degrees from Wuhan University, Wuhan, China, in 2019 and 2022. I am currently a Postdoctoral Researcher with Hong Kong University of Science and Technology. 
+I am currently a Postdoctoral Researcher with <a href='https://hkust.edu.hk/'>the Hong Kong University of Science and Technology (HKUST)</a>. Prior to HKUST, I received my Ph.D. in Computer Science at <a href='https://www.whu.edu.cn/'>Wuhan University</a> in 2022, under the guidance of <a href='https://scholar.google.com/citations?user=ax6CbMgAAAAJ'>Prof. Yanjiao Chen</a>. I obtained my master's degree from Wuhan University. I spent my senior year as a visiting student at <a href='https://usslab.org/'> USSLAb</a> of <a href='https://www.zju.edu.cn/'>ZheJiang University</a>. 
 
+ My doctoral research is
 My research interests include mobile and ubiquitous computing, smart healthcare, and IoT/AI security. The total google scholar citations <a href='https://scholar.google.com/citations?user=Q0JYVicAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
