@@ -47,7 +47,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 [ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10702439), **TDSC 2024**
 
-**Meng Xue**, Zhixian Wang, Qian Zhang, Xueluan Gong, Zhihang Liu, and Yanjiao Chen 
+  **Meng Xue**, Zhixian Wang, Qian Zhang, Xueluan Gong, Zhihang Liu, and Yanjiao Chen 
 
 [Meta-Learning for Human-Centered Wireless Sensing: Architecture, Applications, and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9846941). **Xue, Meng**, Yanjiao Chen, Xueluan Gong, Houze Cao, Jian Zhang, and Qian Zhang. *IEEE Network*, 2022.
 
