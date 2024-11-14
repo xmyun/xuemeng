@@ -45,6 +45,18 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/Echo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10702439)
+
+**Meng Xue**, Zhixian Wang, Qian Zhang, Xueluan Gong, Zhihang Liu, and Yanjiao Chen 
+[**Code**](https://github.com/xmyun/Artemis) 
+- In this work, we propose a novel backdoor defense approach called ARTEMIS, which utilizes distribution shifts to eliminate the discrepancy between poisoned and benign samples in the feature space. Additionally, ARTEMIS learns from domain-invariant features after the shift. 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/Echo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
