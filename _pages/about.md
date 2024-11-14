@@ -45,7 +45,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/Artemis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2024</div><img src='images/Artemis.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10702439)
