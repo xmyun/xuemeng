@@ -24,7 +24,7 @@ redirect_from:
 
 I obtained my M.S. and Ph.D. degrees from Wuhan University, Wuhan, China, in 2019 and 2022. I am currently a Postdoctoral Researcher with Hong Kong University of Science and Technology. 
 
-My research interests include mobile and ubiquitous computing, smart healthcare, and IoT/AI security. with total google scholar citations <a href='https://scholar.google.com/citations?user=Q0JYVicAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include mobile and ubiquitous computing, smart healthcare, and IoT/AI security. The total google scholar citations <a href='https://scholar.google.com/citations?user=Q0JYVicAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News 
