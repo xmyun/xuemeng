@@ -39,7 +39,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [SDE: Early Screening for Dry Eye Disease with Wireless Signals](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174703/)
 
 **Meng Xue**, Yuyang Zeng, Shengkang Gu, Qian Zhang, Bowei Tian, and Changzheng Chen 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:_FxGoFyzp5QC) 
+[**Demo**](https://dl.acm.org/doi/abs/10.1145/3631438) [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:_FxGoFyzp5QC) 
 
 - In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. By constructing frame chirps variance, we extract fine-grained spontaneous blinking action from RF signals.
 </div>
