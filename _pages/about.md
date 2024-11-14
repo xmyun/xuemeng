@@ -22,7 +22,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Post-doctoral Fellow with <a href='https://hkust.edu.hk/'>the Hong Kong University of Science and Technology (HKUST)</a>, under the guidance of <a href='https://scholar.google.com/citations?user=XTlaQMkAAAAJ&hl=zh-CN'>Prof. Qian Zhang</a>. Prior to HKUST, I received my Ph.D. in Computer Science and master's degree at <a href='https://www.whu.edu.cn/'>Wuhan University</a> in 2022, under the guidance of <a href='https://scholar.google.com/citations?user=ax6CbMgAAAAJ'>Prof. Yanjiao Chen</a> and <a href='https://cs.whu.edu.cn/szdw/zrjs.htm'>Prof. Jian Zhang</a>. I spent my senior year as a visiting student at <a href='https://usslab.org/'> USSLAb</a> of <a href='https://www.zju.edu.cn/'>Zhejiang University (ZJU)</a>. 
+I am currently a Post-doctoral Fellow with <a href='https://hkust.edu.hk/'>the Hong Kong University of Science and Technology (HKUST)</a>, under the guidance of <a href='https://scholar.google.com/citations?user=XTlaQMkAAAAJ&hl=zh-CN'>Prof. Qian Zhang</a>. Prior to HKUST, I received my Ph.D. in Computer Science and master's degree at <a href='https://www.whu.edu.cn/'>Wuhan University (WHU)</a> in 2022, under the guidance of <a href='https://scholar.google.com/citations?user=ax6CbMgAAAAJ'>Prof. Yanjiao Chen</a> and <a href='https://cs.whu.edu.cn/szdw/zrjs.htm'>Prof. Jian Zhang</a>. I spent my senior year as a visiting student at <a href='https://usslab.org/'> USSLAb</a> of <a href='https://www.zju.edu.cn/'>Zhejiang University (ZJU)</a>. 
 
 My research interests include mobile and ubiquitous computing, smart healthcare, and IoT/AI security. The total google scholar citations <a href='https://scholar.google.com/citations?user=Q0JYVicAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -105,9 +105,9 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 - *2022.10* Academic Innovation Scholarship, WuHan University. 
 
 # 📖 Educations
-- *2022.09 - now*, HKUST.
-- *2021.5-2022.4, Zhejiang university (Visiting).
-- *2017.09 - 2022.06, Wuhan University. 
+- *2022.09 - now*, Hong Kong University of Science and Technology.
+- *2021.5 - 2022.4*, Zhejiang university (Visiting).
+- *2017.09 - 2022.06*, Wuhan University. 
 
 # 💬 Services
 - Reviewer of IEEE Transactions on Information Forensics and Security. 
