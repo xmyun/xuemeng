@@ -45,6 +45,17 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/Echo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Echo: Reverberation-based Fast Black-Box Adversarial Attacks on Intelligent Audio Systems](https://dl.acm.org/doi/pdf/10.1145/3534599)
+
+**Meng Xue**, Peng Kuang, Xueluan Gong, Qian ZHANG, and Yanjiao Chen
+[**Presentaion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:eQOLeE2rZwMC) [Demo](https://echodisplay.github.io/
+)
+- In this paper, we propose a physical adversarial attack that exploits reverberation, a natural indoor acoustic effect, to realize imperceptible, fast, and targeted black-box attacks. Moreover, we generate reverberation-alike perturbations that blend naturally with the original voice sample. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2022</div><img src='images/WetRa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
