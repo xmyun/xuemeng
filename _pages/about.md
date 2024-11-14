@@ -80,11 +80,19 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2021</div><img src='images/ChestLive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChestLive: Fortifying Voice-based Authentication with Chest Motion Biometric on Smart Devices](https://dl.acm.org/doi/abs/10.1145/3494962)
+
+Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, and Wei Wang
+[**Presentaion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0JYVicAAAAJ&citation_for_view=Q0JYVicAAAAJ:zYLM7Y9cAGgC) 
+- In this paper, we propose to leverage the distinctive chest motions during speaking to establish a secure multi-factor authentication system, named ChestLive. We use acoustic sensing to monitor chest motions with a built-in speaker and microphone on smartphones.  
+</div>
+</div>
 
 
 [Meta-Learning for Human-Centered Wireless Sensing: Architecture, Applications, and Challenges](https://ieeexplore.ieee.org/abstract/document/9846941/). **Xue, Meng**, Yanjiao Chen, Xueluan Gong, Houze Cao, Jian Zhang, and Qian Zhang. *IEEE Network*, 2022.
-
-[ChestLive: Fortifying Voice-based Authentication with Chest Motion Biometric on Smart Devices](https://dl.acm.org/doi/abs/10.1145/3494962). Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, Wei Wang. *ACM Ubicomp*, 2021.
 
 [DetectDUI: An In-Car Detection System for Drink Driving and BACs](https://ieeexplore.ieee.org/abstract/document/9626572). Yanjiao Chen, **Meng Xue**, Jian Zhang, Runmin Ou, Qian Zhang, Peng Kuang. *IEEE/ACM TON*, 2021.
 
