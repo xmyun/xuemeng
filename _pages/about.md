@@ -44,7 +44,8 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 </div>
 </div>
 
-- [ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10702439), A, B, C, **TDSC 2024**
+- [ARTEMIS: Defending against Backdoor Attacks via Distribution Shift](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10702439), **TDSC 2024**
+- **Meng Xue**, Zhixian Wang, Qian Zhang, Xueluan Gong, Zhihang Liu, and Yanjiao Chen 
 
 # 🎖 Honors and Awards
 - *2024.9* HKUST Research Travel Grant, HKUST. 
