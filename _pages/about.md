@@ -118,4 +118,5 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 # 💻 Internships
 - *2018.06 - 2018.09*, [Huawei](https://github.com/), China.
 
-<a href="https://clustrmaps.com/site/1c29h"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3BAXZ4hIWheJ1PpPkdNlxPOkxqsN_Y3Meg_I3j8mk5o&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1c29j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_2_-OGFqSTwXMV4N0QqunESDhI51T0Gy0Jgdqk6gwAE&cl=ffffff" /></a>
+
