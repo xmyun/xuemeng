@@ -113,7 +113,7 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 - Reviewer of IEEE Transactions on Information Forensics and Security. 
 - Reviewer of IMWUT/Ubicomp.
 - Reviewer of IEEE network.
-- Teaching Assistant of Computer Networking, at Wuhan University, 2019.9 - 2020.1
+- Teaching Assistant of Computer Networking, at Wuhan University, 2019.09 - 2020.01
 
 # 💻 Internships
 - *2018.06 - 2018.09*, [Huawei](https://github.com/), China.
